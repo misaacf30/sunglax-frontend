@@ -1,3 +1,5 @@
+![project3](https://github.com/misaacf30/sunglax-frontend/assets/66347307/e5606e67-1c79-45df-bc33-f654432a93db)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
