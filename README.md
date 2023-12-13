@@ -1,4 +1,7 @@
-![project3](https://github.com/misaacf30/sunglax-frontend/assets/66347307/e5606e67-1c79-45df-bc33-f654432a93db)
+![sunglax1](https://github.com/misaacf30/sunglax-frontend/assets/66347307/8911e916-1416-4875-8bc0-0dae7f10e5dd) | ![sunglax2](https://github.com/misaacf30/sunglax-frontend/assets/66347307/213860ea-040e-4a4d-958c-e0d526a2123f)
+:-------------------------:|:-------------------------:
+![sunglax3](https://github.com/misaacf30/sunglax-frontend/assets/66347307/11909382-28ed-4478-9333-f4d3608d7669) | ![sunglax4](https://github.com/misaacf30/sunglax-frontend/assets/66347307/3798ad46-87d9-4548-8025-57a9f53765cb)
+![sunglax5](https://github.com/misaacf30/sunglax-frontend/assets/66347307/3f9b664e-398d-4ecd-936e-8089b6e6730c) | ![sunglax6](https://github.com/misaacf30/sunglax-frontend/assets/66347307/92389aea-9f4e-4b3d-8be0-407e9b980157)
 
 # Getting Started with Create React App
 
